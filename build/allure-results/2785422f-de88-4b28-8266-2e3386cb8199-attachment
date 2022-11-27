@@ -1,0 +1,3 @@
+[2022-11-27T12:51:32.940Z] [SEVERE] https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js - Failed to load resource: net::ERR_CONNECTION_RESET
+[2022-11-27T12:51:35.528Z] [SEVERE] https://partner.googleadservices.com/gampad/cookie.js?domain=demoqa.com&callback=_gfp_s_&client=ca-pub-5889298451609146&gpid_exp=1 - Failed to load resource: net::ERR_CONNECTION_RESET
+[2022-11-27T12:51:36.275Z] [SEVERE] https://cdn.ad.plus/player/adplus.js 401:150 Uncaught TypeError: e(...).setup is not a function
