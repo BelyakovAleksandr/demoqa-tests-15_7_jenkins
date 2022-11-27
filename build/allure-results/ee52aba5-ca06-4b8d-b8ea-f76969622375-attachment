@@ -1,0 +1,6 @@
+[2022-11-27T13:25:49.510Z] [SEVERE] https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js - Failed to load resource: net::ERR_CONNECTION_RESET
+[2022-11-27T13:25:51.293Z] [SEVERE] https://pagead2.googlesyndication.com/pagead/managed/js/adsense/m202211140101/show_ads_impl_fy2021.js?bust=31070968 - Failed to load resource: net::ERR_CONNECTION_RESET
+[2022-11-27T13:25:51.342Z] [SEVERE] https://securepubads.g.doubleclick.net/pagead/ppub_config?ippd=demoqa.com - Failed to load resource: net::ERR_CONNECTION_RESET
+[2022-11-27T13:25:51.620Z] [SEVERE] https://securepubads.g.doubleclick.net/gpt/pubads_impl_2022111501.js 9:238740 Error: s:0 rs:4
+    at Th.d.onerror (https://www.googletagservices.com/tag/js/gpt.js:10:38568)
+[2022-11-27T13:25:53.135Z] [SEVERE] https://cdn.ad.plus/player/adplus.js 401:150 Uncaught TypeError: e(...).setup is not a function
