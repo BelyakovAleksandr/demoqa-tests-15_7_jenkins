@@ -1,5 +1,0 @@
-[2022-11-27T13:00:18.822Z] [SEVERE] https://cdn.ad.plus/player/adplus.js 401:150 Uncaught TypeError: e(...).setup is not a function
-[2022-11-27T13:00:18.825Z] [SEVERE] https://securepubads.g.doubleclick.net/pagead/ppub_config?ippd=demoqa.com - Failed to load resource: net::ERR_CONNECTION_RESET
-[2022-11-27T13:00:19.346Z] [SEVERE] https://securepubads.g.doubleclick.net/gpt/pubads_impl_2022111501.js 9:238740 Error: s:0 rs:4
-    at Th.d.onerror (https://www.googletagservices.com/tag/js/gpt.js:10:38568)
-[2022-11-27T13:00:20.638Z] [SEVERE] https://partner.googleadservices.com/gampad/cookie.js?domain=demoqa.com&callback=_gfp_s_&client=ca-pub-5889298451609146&gpid_exp=1 - Failed to load resource: net::ERR_CONNECTION_RESET
